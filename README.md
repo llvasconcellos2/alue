@@ -64,11 +64,11 @@ Alue Esquadrias de Alumínio needed a web presence that matched the prestige of 
 
 The commissioned photography and fullscreen hero carousel elevated the brand's visual authority, while the interactive portfolio — featuring completed works like Edifício Lafayette and Residencial Zürich — gave prospective clients a tangible view of Alue's high-standard output. The embedded contact form and Google Maps integration reduced friction for incoming leads, turning the website into an active channel for commercial partnerships with construction firms across Joinville and Santa Catarina.
 
-**Key features:**
+### Key Features
 
-- Designed and built a custom WordPress theme from scratch — fullscreen hero carousel, sticky navigation, and smooth single-page scroll across 5 sections
-- Interactive portfolio grid with inline expandable galleries, backed by a commissioned professional photo shoot of 7 completed projects
-- Responsive layout for all viewports, server-side PHP contact form, and Google Maps showroom integration — giving Alue a complete lead-generation pipeline online
+- **Custom WordPress theme, hand-coded from scratch** — built a fullscreen hero carousel, sticky navigation, and smooth single-page scroll across 5 sections, giving Alue a bespoke brand presence that matched the prestige of their Alcoa-certified product line.
+- **Interactive project portfolio** — implemented an expandable gallery grid backed by a commissioned photo shoot of 7 completed works, so the sales team could show prospective clients tangible proof of Alue's high-standard output.
+- **Complete online lead pipeline** — delivered a fully responsive layout, a server-side PHP contact form, and Google Maps showroom integration, turning the website into an active channel for new construction-firm partnerships across Santa Catarina.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
